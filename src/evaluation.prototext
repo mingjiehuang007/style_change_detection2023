@@ -1,0 +1,48 @@
+measure{
+  key: "task1_f1_score"
+  value: "0.34868613313531516"
+}
+measure{
+  key: "task2_f1_score"
+  value: "0.795738897643972"
+}
+measure{
+  key: "task3_f1_score"
+  value: "0.7805122145434542"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.9425594891878967"
+}
+measure{
+  key: "task2_f1_score"
+  value: "0.795738897643972"
+}
+measure{
+  key: "task3_f1_score"
+  value: "0.7805122145434542"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.9501271720788391"
+}
+measure{
+  key: "task2_f1_score"
+  value: "0.795738897643972"
+}
+measure{
+  key: "task3_f1_score"
+  value: "0.7805122145434542"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.9641595095432358"
+}
+measure{
+  key: "task2_f1_score"
+  value: "0.795738897643972"
+}
+measure{
+  key: "task3_f1_score"
+  value: "0.7805122145434542"
+}

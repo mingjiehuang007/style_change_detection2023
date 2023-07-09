@@ -1,0 +1,204 @@
+measure{
+  key: "task1_f1_score"
+  value: "0.12486466956498422"
+}
+measure{
+  key: "task2_f1_score"
+  value: "None"
+}
+measure{
+  key: "task3_f1_score"
+  value: "None"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.4992669311493141"
+}
+measure{
+  key: "task2_f1_score"
+  value: "None"
+}
+measure{
+  key: "task3_f1_score"
+  value: "None"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.4992669311493141"
+}
+measure{
+  key: "task2_f1_score"
+  value: "None"
+}
+measure{
+  key: "task3_f1_score"
+  value: "None"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.4992669311493141"
+}
+measure{
+  key: "task2_f1_score"
+  value: "None"
+}
+measure{
+  key: "task3_f1_score"
+  value: "None"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.48660865089195227"
+}
+measure{
+  key: "task2_f1_score"
+  value: "None"
+}
+measure{
+  key: "task3_f1_score"
+  value: "None"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.4992669311493141"
+}
+measure{
+  key: "task2_f1_score"
+  value: "None"
+}
+measure{
+  key: "task3_f1_score"
+  value: "None"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.4992669311493141"
+}
+measure{
+  key: "task2_f1_score"
+  value: "None"
+}
+measure{
+  key: "task3_f1_score"
+  value: "None"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.4992669311493141"
+}
+measure{
+  key: "task2_f1_score"
+  value: "None"
+}
+measure{
+  key: "task3_f1_score"
+  value: "None"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.5551367296263782"
+}
+measure{
+  key: "task2_f1_score"
+  value: "None"
+}
+measure{
+  key: "task3_f1_score"
+  value: "None"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.5551367296263782"
+}
+measure{
+  key: "task2_f1_score"
+  value: "None"
+}
+measure{
+  key: "task3_f1_score"
+  value: "None"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.5551367296263782"
+}
+measure{
+  key: "task2_f1_score"
+  value: "None"
+}
+measure{
+  key: "task3_f1_score"
+  value: "None"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.5551367296263782"
+}
+measure{
+  key: "task2_f1_score"
+  value: "None"
+}
+measure{
+  key: "task3_f1_score"
+  value: "None"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.9736896255822913"
+}
+measure{
+  key: "task2_f1_score"
+  value: "None"
+}
+measure{
+  key: "task3_f1_score"
+  value: "None"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.9644616467276566"
+}
+measure{
+  key: "task2_f1_score"
+  value: "None"
+}
+measure{
+  key: "task3_f1_score"
+  value: "None"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.9644616467276566"
+}
+measure{
+  key: "task2_f1_score"
+  value: "0.795738897643972"
+}
+measure{
+  key: "task3_f1_score"
+  value: "None"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.9644616467276566"
+}
+measure{
+  key: "task2_f1_score"
+  value: "0.795738897643972"
+}
+measure{
+  key: "task3_f1_score"
+  value: "0.7805122145434542"
+}
+measure{
+  key: "task1_f1_score"
+  value: "0.9644616467276566"
+}
+measure{
+  key: "task2_f1_score"
+  value: "0.795738897643972"
+}
+measure{
+  key: "task3_f1_score"
+  value: "0.7805122145434542"
+}
